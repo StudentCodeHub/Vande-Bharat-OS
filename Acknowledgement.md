@@ -110,7 +110,7 @@ Their work enables stable and efficient connectivity across the OS.
 ### 🧪 **Mr. Venkat**  
 **System Evaluation & QA**
 
-### 🚀 **Mr. Haresh Pillay**  
+### 🚀 **Mr. Harish Pillai**  
 **Release Validation & Build Coordination**
 
 Together responsible for:
